@@ -1,0 +1,10 @@
+conda install -c conda-forge moviepy
+brew install ffmpeg
+pip install git+https://github.com/openai/whisper.git -q
+https://platform.openai.com/docs/introduction
+streamlit run app.py
+http://localhost:8501/
+
+ponerle 5 botones, de los idiomas, para que el resumen lo haga automatico con traduccion. se guarde en dispositivo
+tambien, guardar sesion para que no repita la misma tarea para el mismo usuario
+se puede colocar un password inicial para que no lo usen foraneos

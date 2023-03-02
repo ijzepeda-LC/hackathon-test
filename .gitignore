@@ -1,0 +1,12 @@
+.streamlit/secrets.toml
+.DS_Store
+output/
+resources/
+temp/
+launch.json
+.DS_Store
+requirements_steps.txt
+.streamlit/__pycache__/functions.cpython-39.pyc
+.streamlit/text_summarizer/__pycache__/__init__.cpython-39.pyc
+.streamlit/text_summarizer/__pycache__/functions.cpython-39.pyc
+output/.DS_Store
